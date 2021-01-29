@@ -1,7 +1,9 @@
-package com.example.aad_learning
+package com.example.aad_learning.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.aad_learning.R
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
